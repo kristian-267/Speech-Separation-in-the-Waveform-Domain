@@ -1,4 +1,4 @@
-# Speech separation in the waveform domain
+# Speech-Separation-in-the-Waveform-Domain
 
 ## Overview
 This is the repository explores advanced speech processing techniques to separate speakers in mixed speech signals using the [Demucs model](references/Defossez2019%20-%20Music%20Source%20Separation%20in%20the%20Waveform%20Domain.pdf), which was originally intended for stem separation of music.
